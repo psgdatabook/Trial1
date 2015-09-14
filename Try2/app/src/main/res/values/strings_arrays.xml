@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name = "Materials">
+
+       <item>Materials</item>
+      <item> Cores,Permanent Moulds</item>
+       <item>Hardness Conversion Tables</item>
+       <item>Physical Properties Of Metals</item>
+       <item> Interpretation Of Indian Standards</item>
+       <item>Designation Of Steel And Aluminium</item>
+       <item>Meehanite Castings Properties</item>
+       <item>Cast Iron Castings,Properties and Uses</item>
+       <item>Spheroidal Graphite or Nodular Graphite Iron - Properties,Grey Iron Castings for General Use</item>
+       <item>Mechanical Properties of High Tensile Cast Steel,Carbon Steel Castings - General Use</item>
+       <item>Carbon Steel Castings Subjected to Pressure and High Temperature</item>
+       <item>Alloy Steel Castings subjected to high Pressure and Temperature</item>
+       <item>Corrosion Resistant Steel Castings</item>
+       <item>Heat Resistant Alloy Steel Castings</item>
+       <item>Carbon Steel Composition and Properties</item>
+       <item>Carbon Steel,Typical Uses</item>
+       <item>Carbon Steel,Properties</item>
+       <item>Tensile Strength of Structural Steels</item>
+       <item>Alloy Steel,Composition and Properties</item>
+       <item>Free Cutting Steel,Composition and Properties</item>
+       <item>Alloy Steel, Uses</item>
+       <item>Alloy Steel,Properties</item>
+       <item>Tool Steel Hardness</item>
+       <item>Tool Steel Composition</item>
+       <item>Tool Steel Uses</item>
+       <item>Steels, IS and their equivalents</item>
+       <item>Brasses, Bronze Composition and Properties</item>
+       <item>Bearing Alloys, Composition</item>
+       <item>Anti - Friction Bearings Pouring Temperature</item>
+       <item>Die Casting Steel, Composition and Uses</item>
+       <item>Chemical properties of Wrought Aluminium and Al alloys</item>
+       <item>Charecteristics and Uses of Wrought Al alloys</item>
+       <item>Chemical Composition And Mechanical Properties Of Cast Aluminium Alloys</item>
+       <item>Cast Al Alloys, Characteristics and uses</item>
+       <item>Hardness number realted to tensile strength</item>
+       <item>Gear Materials</item>
+       <item>Plastics, Properties</item>
+       <item>Endurance Limit of Metals</item>
+
+   </string-array>
+    <string name ="sp_Materials">Materials</string>
+</resources>

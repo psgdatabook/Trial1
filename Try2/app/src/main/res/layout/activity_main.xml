@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity" android:orientation="vertical"
+    android:background ="@drawable/blueprints" android:gravity="center_horizontal"
+    android:weightSum="1">
+
+    <TextView android:text="PSG TECH" android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:id="@+id/my_text" android:textColor="@color/Black"
+    android:gravity="center" android:textSize="32dip"/>
+    <TextView android:text="Department Of Mechanical Engineering" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/my_text1" android:textColor="@color/Black"
+        android:gravity="center" android:textSize="20dip"/>
+    <TextView android:text="DESIGN DATA BOOK" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/my_text2" android:textColor="@color/Black"
+        android:gravity="center" android:textSize="20dip"/>
+    <Button android:text="GO" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:id="@+id/my_button" android:gravity ="center"
+        android:textColor ="@color/Black"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

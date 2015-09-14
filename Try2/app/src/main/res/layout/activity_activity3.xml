@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/blueprints"
+    tools:context="madhu.psg.try2.Activity3">
+<TextView android:layout_width="match_parent" android:layout_height ="wrap_content" android:text="Welcome to Design Data"
+    android:textSize ="24dip" android:gravity="center"/>
+    <TextView android:layout_width="match_parent" android:layout_height ="wrap_content" android:text="Data Book Of Engineers"
+        android:textSize ="16dip" android:gravity="center" android:paddingTop="10dip" android:paddingBottom="10dip"/>
+
+    <Spinner
+        android:layout_width="match_parent" android:layout_height="50dip" android:id="@+id/Materials"
+        android:entries="@array/Materials"
+        android:background="@color/Silver"
+        android:spinnerMode="dialog"
+        android:prompt="@string/sp_Materials"/>
+</LinearLayout>
